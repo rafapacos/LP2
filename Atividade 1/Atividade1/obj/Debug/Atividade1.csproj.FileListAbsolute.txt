@@ -1,0 +1,9 @@
+C:\Users\Rafael Pacos\source\repos\Atividade1\Atividade1\bin\Debug\Atividade1.exe.config
+C:\Users\Rafael Pacos\source\repos\Atividade1\Atividade1\bin\Debug\Atividade1.exe
+C:\Users\Rafael Pacos\source\repos\Atividade1\Atividade1\bin\Debug\Atividade1.pdb
+C:\Users\Rafael Pacos\source\repos\Atividade1\Atividade1\obj\Debug\Atividade1.csprojAssemblyReference.cache
+C:\Users\Rafael Pacos\source\repos\Atividade1\Atividade1\obj\Debug\Atividade1.Form1.resources
+C:\Users\Rafael Pacos\source\repos\Atividade1\Atividade1\obj\Debug\Atividade1.Properties.Resources.resources
+C:\Users\Rafael Pacos\source\repos\Atividade1\Atividade1\obj\Debug\Atividade1.csproj.GenerateResource.cache
+C:\Users\Rafael Pacos\source\repos\Atividade1\Atividade1\obj\Debug\Atividade1.exe
+C:\Users\Rafael Pacos\source\repos\Atividade1\Atividade1\obj\Debug\Atividade1.pdb
