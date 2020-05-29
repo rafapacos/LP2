@@ -7,3 +7,12 @@ C:\Users\Rafael Pacos\source\repos\Atividade3\Atividade3\obj\Debug\Atividade3.Pr
 C:\Users\Rafael Pacos\source\repos\Atividade3\Atividade3\obj\Debug\Atividade3.csproj.GenerateResource.cache
 C:\Users\Rafael Pacos\source\repos\Atividade3\Atividade3\obj\Debug\Atividade3.exe
 C:\Users\Rafael Pacos\source\repos\Atividade3\Atividade3\obj\Debug\Atividade3.pdb
+C:\Users\Rafael Pacos\Desktop\LP2 Repo\LP2 Repo\Atividade 3\Atividade3\bin\Debug\Atividade3.exe.config
+C:\Users\Rafael Pacos\Desktop\LP2 Repo\LP2 Repo\Atividade 3\Atividade3\bin\Debug\Atividade3.exe
+C:\Users\Rafael Pacos\Desktop\LP2 Repo\LP2 Repo\Atividade 3\Atividade3\bin\Debug\Atividade3.pdb
+C:\Users\Rafael Pacos\Desktop\LP2 Repo\LP2 Repo\Atividade 3\Atividade3\obj\Debug\Atividade3.csprojAssemblyReference.cache
+C:\Users\Rafael Pacos\Desktop\LP2 Repo\LP2 Repo\Atividade 3\Atividade3\obj\Debug\Atividade3.Form1.resources
+C:\Users\Rafael Pacos\Desktop\LP2 Repo\LP2 Repo\Atividade 3\Atividade3\obj\Debug\Atividade3.Properties.Resources.resources
+C:\Users\Rafael Pacos\Desktop\LP2 Repo\LP2 Repo\Atividade 3\Atividade3\obj\Debug\Atividade3.csproj.GenerateResource.cache
+C:\Users\Rafael Pacos\Desktop\LP2 Repo\LP2 Repo\Atividade 3\Atividade3\obj\Debug\Atividade3.exe
+C:\Users\Rafael Pacos\Desktop\LP2 Repo\LP2 Repo\Atividade 3\Atividade3\obj\Debug\Atividade3.pdb
