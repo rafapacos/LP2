@@ -1,0 +1,14 @@
+C:\Users\Rafael Pacos\source\repos\Atividade6\Atividade6\bin\Debug\Atividade6.exe.config
+C:\Users\Rafael Pacos\source\repos\Atividade6\Atividade6\bin\Debug\Atividade6.exe
+C:\Users\Rafael Pacos\source\repos\Atividade6\Atividade6\bin\Debug\Atividade6.pdb
+C:\Users\Rafael Pacos\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.csprojAssemblyReference.cache
+C:\Users\Rafael Pacos\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.Form1.resources
+C:\Users\Rafael Pacos\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.frmEx1.resources
+C:\Users\Rafael Pacos\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.Properties.Resources.resources
+C:\Users\Rafael Pacos\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.csproj.GenerateResource.cache
+C:\Users\Rafael Pacos\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Pacos\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.exe
+C:\Users\Rafael Pacos\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.pdb
+C:\Users\Rafael Pacos\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.frmEx2.resources
+C:\Users\Rafael Pacos\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.frmEx3.resources
+C:\Users\Rafael Pacos\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.frmEx4.resources
