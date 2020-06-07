@@ -1,0 +1,11 @@
+C:\Users\Rafael Pacos\source\repos\Atividade7\Atividade7\bin\Debug\Atividade7.exe.config
+C:\Users\Rafael Pacos\source\repos\Atividade7\Atividade7\bin\Debug\Atividade7.exe
+C:\Users\Rafael Pacos\source\repos\Atividade7\Atividade7\bin\Debug\Atividade7.pdb
+C:\Users\Rafael Pacos\source\repos\Atividade7\Atividade7\obj\Debug\Atividade7.csprojAssemblyReference.cache
+C:\Users\Rafael Pacos\source\repos\Atividade7\Atividade7\obj\Debug\Atividade7.Form1.resources
+C:\Users\Rafael Pacos\source\repos\Atividade7\Atividade7\obj\Debug\Atividade7.Properties.Resources.resources
+C:\Users\Rafael Pacos\source\repos\Atividade7\Atividade7\obj\Debug\Atividade7.csproj.GenerateResource.cache
+C:\Users\Rafael Pacos\source\repos\Atividade7\Atividade7\obj\Debug\Atividade7.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Pacos\source\repos\Atividade7\Atividade7\obj\Debug\Atividade7.exe
+C:\Users\Rafael Pacos\source\repos\Atividade7\Atividade7\obj\Debug\Atividade7.pdb
+C:\Users\Rafael Pacos\source\repos\Atividade7\Atividade7\obj\Debug\Atividade7.Exercicio6.resources
