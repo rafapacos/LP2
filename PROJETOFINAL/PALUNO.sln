@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PALUNO", "PALUNO\PALUNO.csproj", "{CD396A4C-E41B-4AB4-805B-0C4ECF8D9562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD396A4C-E41B-4AB4-805B-0C4ECF8D9562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD396A4C-E41B-4AB4-805B-0C4ECF8D9562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD396A4C-E41B-4AB4-805B-0C4ECF8D9562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD396A4C-E41B-4AB4-805B-0C4ECF8D9562}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C7FAA7B-FCDB-4D2E-8A58-A081D955C3A5}
+	EndGlobalSection
+EndGlobal

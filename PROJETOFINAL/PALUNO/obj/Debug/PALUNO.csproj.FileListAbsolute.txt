@@ -1,0 +1,38 @@
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\PALUNO\PALUNO\bin\Debug\PALUNO.exe.config
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\PALUNO\PALUNO\bin\Debug\PALUNO.exe
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\PALUNO\PALUNO\bin\Debug\PALUNO.pdb
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\PALUNO\PALUNO\obj\Debug\PALUNO.csprojAssemblyReference.cache
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\PALUNO\PALUNO\obj\Debug\PALUNO.Form1.resources
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\PALUNO\PALUNO\obj\Debug\PALUNO.frmCidade.resources
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\PALUNO\PALUNO\obj\Debug\PALUNO.Properties.Resources.resources
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\PALUNO\PALUNO\obj\Debug\PALUNO.csproj.GenerateResource.cache
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\PALUNO\PALUNO\obj\Debug\PALUNO.exe
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\PALUNO\PALUNO\obj\Debug\PALUNO.pdb
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\PALUNO\PALUNO\obj\Debug\PALUNO.AboutBox.resources
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\PALUNO\PALUNO\obj\Debug\PALUNO.frmAluno.resources
+C:\Users\Rafael Pacos\Desktop\PROJETOFINAL\PALUNO\PALUNO\bin\Debug\PALUNO.exe.config
+C:\Users\Rafael Pacos\Desktop\PROJETOFINAL\PALUNO\PALUNO\bin\Debug\PALUNO.exe
+C:\Users\Rafael Pacos\Desktop\PROJETOFINAL\PALUNO\PALUNO\bin\Debug\PALUNO.pdb
+C:\Users\Rafael Pacos\Desktop\PROJETOFINAL\PALUNO\PALUNO\obj\Debug\PALUNO.csprojAssemblyReference.cache
+C:\Users\Rafael Pacos\Desktop\PROJETOFINAL\PALUNO\PALUNO\obj\Debug\PALUNO.Form1.resources
+C:\Users\Rafael Pacos\Desktop\PROJETOFINAL\PALUNO\PALUNO\obj\Debug\PALUNO.frmAluno.resources
+C:\Users\Rafael Pacos\Desktop\PROJETOFINAL\PALUNO\PALUNO\obj\Debug\PALUNO.frmCidade.resources
+C:\Users\Rafael Pacos\Desktop\PROJETOFINAL\PALUNO\PALUNO\obj\Debug\PALUNO.Properties.Resources.resources
+C:\Users\Rafael Pacos\Desktop\PROJETOFINAL\PALUNO\PALUNO\obj\Debug\PALUNO.csproj.GenerateResource.cache
+C:\Users\Rafael Pacos\Desktop\PROJETOFINAL\PALUNO\PALUNO\obj\Debug\PALUNO.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Pacos\Desktop\PROJETOFINAL\PALUNO\PALUNO\obj\Debug\PALUNO.exe
+C:\Users\Rafael Pacos\Desktop\PROJETOFINAL\PALUNO\PALUNO\obj\Debug\PALUNO.pdb
+C:\Users\Rafael Pacos\Desktop\PROJETOFINAL\PALUNO\PALUNO\obj\Debug\PALUNO.frmSobre.resources
+C:\Users\Rafael Pacos\Desktop\l\PALUNO\PALUNO\bin\Debug\PALUNO.exe.config
+C:\Users\Rafael Pacos\Desktop\l\PALUNO\PALUNO\bin\Debug\PALUNO.exe
+C:\Users\Rafael Pacos\Desktop\l\PALUNO\PALUNO\bin\Debug\PALUNO.pdb
+C:\Users\Rafael Pacos\Desktop\l\PALUNO\PALUNO\obj\Debug\PALUNO.csprojAssemblyReference.cache
+C:\Users\Rafael Pacos\Desktop\l\PALUNO\PALUNO\obj\Debug\PALUNO.Form1.resources
+C:\Users\Rafael Pacos\Desktop\l\PALUNO\PALUNO\obj\Debug\PALUNO.frmAluno.resources
+C:\Users\Rafael Pacos\Desktop\l\PALUNO\PALUNO\obj\Debug\PALUNO.frmCidade.resources
+C:\Users\Rafael Pacos\Desktop\l\PALUNO\PALUNO\obj\Debug\PALUNO.frmSobre.resources
+C:\Users\Rafael Pacos\Desktop\l\PALUNO\PALUNO\obj\Debug\PALUNO.Properties.Resources.resources
+C:\Users\Rafael Pacos\Desktop\l\PALUNO\PALUNO\obj\Debug\PALUNO.csproj.GenerateResource.cache
+C:\Users\Rafael Pacos\Desktop\l\PALUNO\PALUNO\obj\Debug\PALUNO.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Pacos\Desktop\l\PALUNO\PALUNO\obj\Debug\PALUNO.exe
+C:\Users\Rafael Pacos\Desktop\l\PALUNO\PALUNO\obj\Debug\PALUNO.pdb
